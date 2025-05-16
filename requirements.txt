@@ -56,4 +56,3 @@ youtube-search-python>=1.4.6
 ytthumb
 git+https://github.com/agronholm/anyio
 git+https://github.com/Joelkb/cinemagoer
-
